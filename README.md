@@ -1,8 +1,6 @@
 ## Hi there, I'm Javier 
 
 ------------------------
-
-- 📚 Learning - javascript
 - 🤛 Looking for new friends
 - 💬 javier's code#9099 on discord
 
